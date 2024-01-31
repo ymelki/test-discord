@@ -1,0 +1,22 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "fuse": "^0.11.3",
+    "fuse.js": "^7.0.0",
+    "google-auth-library": "^9.5.0",
+    "google-spreadsheet": "^4.1.1",
+    "googleapis": "^131.0.0",
+    "mongodb": "^6.3.0",
+    "string-similarity": "^4.0.4"
+  }
+}
