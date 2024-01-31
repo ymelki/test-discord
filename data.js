@@ -1,7 +1,7 @@
 const { MongoClient } = require('mongodb');
 
 // Remplacez l'URL de connexion par celle de votre propre base de données MongoDB
-const url = 'mongodb+srv://ymelki:Decembre2020@cluster0.ew68j8b.mongodb.net/';
+const url = 'mongodb+srv://ymelki:Decembre2020@cluster0.ew68j8b.mongodb.net/?ssl=true';
 const dbName = 'cours';
 const collectionName = 'Cours2';
 
