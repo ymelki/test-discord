@@ -75,6 +75,7 @@ bot.on('ready', function () {
 }); // Ajout de l'accolade fermante ici
 bot.login(process.env.TOKEN);
 
+
 }
 
 main();
